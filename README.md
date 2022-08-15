@@ -1,6 +1,8 @@
 # DevOps
 Introduction to DevOps
 
+# Introduction to DevOps - Adapted from Techworld with Nana course
+
 <img width="834" alt="Screen Shot 2022-08-14 at 8 58 26 PM" src="https://user-images.githubusercontent.com/67527927/184562164-01ddcf45-a5d2-4648-bda2-98901ee0c978.png">
 
 <img width="772" alt="Screen Shot 2022-08-14 at 8 59 04 PM" src="https://user-images.githubusercontent.com/67527927/184562167-bfdd5900-4678-48ac-9ee1-c3e4a8dbd50a.png">
